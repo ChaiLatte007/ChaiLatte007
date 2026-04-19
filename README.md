@@ -1,16 +1,16 @@
 <h1 align="center">Aidan Castillo</h1>
 <h3 align="center">Estudiante de Ingeniería en Sistemas | Con Interes en Aprender Sobre Tecnologia 🥸 | Apasionado Sobre la Programacion y el Mundo de las Nuevas Tecnologias | </h3>
-
+--
 <h3 align="left">🫡Sobre mi</h3>
 <p aling="left">Actualmente me encuentro fortaleciendo mis conocimientos en programación orientada a objetos, lógica de programación y bases de datos.
 Disfruto aprender cada dia un poco mas, me gusta resolver problemas, crear pequeños proyectos y mejorar mis habilidades poco a poco.</p>
-
+--
 <h3 align="left">🎯Objetivo</h3>
 <p aling="left">Mi objetivo es convertirme en un desarrollador de software profesional y participar en proyectos reales que aporten valor a mi carrera profesional.</p>
-
+--
 <h3 align="left">👤Contacto</h3>
 <p aling="left"> 📧aidancastillogt12@gmail.com</p>
-
+--
 
 
 
