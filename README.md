@@ -8,6 +8,12 @@ Disfruto aprender cada dia un poco mas, me gusta resolver problemas, crear peque
 <h3 align="left">🎯Objetivo</h3>
 <p aling="left">Mi objetivo es convertirme en un desarrollador de software profesional y participar en proyectos reales que aporten valor a mi carrera profesional.</p>
 
+<h3 align="left">👤Contacto</h3>
+<p aling="left"> 📧aidancastillogt12@gmail.com</p>
+
+
+
+
 <p align="left">
 </p>
 
